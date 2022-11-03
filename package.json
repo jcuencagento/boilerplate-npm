@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Javi Cuenca",
+	"author": "javi",
+	"description": "first project for back end certificate",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
